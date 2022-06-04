@@ -1,0 +1,13 @@
+React Native 정리
+
+React Native = 모바일 브라우저 XXX = 앱 안 브라우저 XXX
+
+React Native는 번역기
+ -> 인터페이스
+ -> React Native 코드로 만들면 ios Code / Java Android Code로 번역
+ 
+Flow
+Native(Ios / Android) Event 감지 -> React Native payload 전달 -> Javascript 이벤트 감지
+-> Javascript Method 호출 ->  React Native method 전달 -> Native method 실행
+
+=================================================================================
